@@ -1,0 +1,4 @@
+ChangedEdges TimeSeconds
+50000 8.203
+100000 12.928
+200000 18.229
