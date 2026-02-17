@@ -8,7 +8,7 @@ This workspace contains multiple related projects used for dynamic/temporal hype
 - `cuhornet-main`
 - `MoCHy-master`
 
-## Recommended Project Structure
+## Project Structure
 
 Each project keeps its own build/run documentation and `Makefile`:
 
